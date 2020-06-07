@@ -9,7 +9,7 @@ public class TestAnnotations {
 	}
 	@Test
 	public void AccountEnquiry() {
-		System.out.println("Account enquiry done.");
+		System.out.println("Account enquiry done successfully.");
 	}
 	@Test
 	public void FundTransfer() {

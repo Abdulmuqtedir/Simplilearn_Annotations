@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class TestAnnotations {
 	@Test
 	public void Login() {
-		System.out.println("Logged in");
+		System.out.println("Logged in successfully");
 	}
 	@Test
 	public void AccountEnquiry() {
